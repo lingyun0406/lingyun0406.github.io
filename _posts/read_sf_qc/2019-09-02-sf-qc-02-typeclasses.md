@@ -1,5 +1,6 @@
 ---
 title: "「SF-QC」2 TypeClasses"
+date: 2024-01-29 12:00:00
 subtitle: "Quickcheck - A Tutorial on Typeclasses in Coq"
 layout: post
 author: "Hux"
