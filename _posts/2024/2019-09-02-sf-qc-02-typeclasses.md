@@ -5,7 +5,8 @@ subtitle: "Quickcheck - A Tutorial on Typeclasses in Coq"
 layout: post
 author: "Hux"
 header-style: text
-hidden: true
+# hidden: true
+catalog:      true
 tags:
   - SF (软件基础)
   - QC (Quickcheck)
