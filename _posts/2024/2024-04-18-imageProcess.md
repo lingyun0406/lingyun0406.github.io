@@ -33,4 +33,4 @@ tags:
 + [squoosh](https://squoosh.app/)官网地址：https://squoosh.app/。
 
 同步视频教程：
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjvjMV4jzAI?si=qamT7TvPiyqIp0An" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0WtfMyRI_M?si=mimmqujTy2KQVXWG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>ss
