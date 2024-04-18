@@ -51,7 +51,7 @@ tags:
 #### ⒍将整个RuoYi-Cloud\docker上传到服务器
 
 + 将**RuoYi-Cloud\docker**整体上传到服务器**/home/ruoyi**目录(可以自行定义)。
-+ `cd`到服务器**/home/ruoyi/docker**目录，执行**chmod +x deploy.sh**命令，给**deploy.sh**脚本赋予执行权限。
++ `cd`到服务器**/home/ruoyi/docker**目录，执行`chmod +x deploy.sh`命令，给**deploy.sh**脚本赋予执行权限。
 
 #### ⒎构建项目中定义的服务容器
 
