@@ -63,4 +63,4 @@ tags:
 + 登录**nacos**服务，修改各个服务配置中的**redis**和**mysql**连接地址为**docker-compose.yml**定义的相应的服务名称。
 + 执行`./deploy.sh modules`命令启动程序模块。
 同步视频教程：
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0WtfMyRI_M?si=mimmqujTy2KQVXWG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>ss
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41g1SgrMAUM?si=63Va4-KVfMM2iBCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
