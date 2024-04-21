@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【第二弹】AI声音克隆｜GPT-SoVITS整合包一键安装｜5分钟训练声音模型 "
-date: 2024-04-15 12:00:00
+date: 2024-04-20 12:00:00
 subtitle: "1分钟音频素材，5分钟训练声音模型"
 author: "lingyun0406"
 header-style: text
